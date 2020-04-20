@@ -3,7 +3,7 @@
 //  Quizzler
 //
 //  Created by Shawn Li on 4/15/20.
-//  Copyright © 2020 shawnli. All rights reserved.
+//  Copyright © 2020 ShawnLi. All rights reserved.
 //
 
 import Foundation
